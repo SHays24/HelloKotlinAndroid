@@ -8,7 +8,7 @@ plugins {
 android {
     compileSdkVersion 33
     defaultConfig {
-        applicationId "com.oreilly.hellokotlin"
+        applicationId "com.google.android.apps.wellbeing"
         minSdkVersion 23
         targetSdkVersion 33
         versionCode 1
